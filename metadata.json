@@ -1,0 +1,7 @@
+{
+  "name": "Finnanças - Elite Wealth & Strategy",
+  "description": "Plataforma premium de inteligência financeira. Estratégias de elite, curiosidades do mercado e ferramentas de projeção de riqueza.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
